@@ -8,11 +8,9 @@
 
 Here are screenshots of the game in action:
 
-![Screenshot 1 - Game Start](TurtleRoadCrossing/1.png)
-
-![Screenshot 2 - Middle phase](TurtleRoadCrossing/2.png)
-
-![Screenshot 3 - Game End](TurtleRoadCrossing/3.png)
+<img src="TurtleRoadCrossing/1.png" width="300"/>
+<img src="TurtleRoadCrossing/2.png" width="300"/>
+<img src="TurtleRoadCrossing/3.png" width="300"/>
 
 ---
 
